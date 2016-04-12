@@ -27,3 +27,5 @@ ejson
 spacebars
 check
 ecmascript
+materialize:materialize
+fourseven:scss
